@@ -1,0 +1,68 @@
+{
+  "patterns": [
+    {
+      "type": "Creacional",
+      "patternItems": [
+        {
+          "name": "Builder",
+          "intent": "Crear un objeto con valores por defecto sobreescribibles.",
+          "usage": "Cuando blablabla",
+          "link": "http://www.google.com.ar",
+          "image": "http://www.dofactory.com/images/diagrams/net/builder.gif"
+        },
+        {
+          "name": "Factory",
+          "intent": "Crear un objeto con valores por defecto sobreescribibles.",
+          "usage": "Cuando blablabla",
+          "link": "http://www.google.com.ar",
+          "image": "http://www.dofactory.com/images/diagrams/net/factory.gif"
+        }
+      ]
+    },
+    {
+      "type": "Estructural",
+      "patternItems": [
+        {
+          "name": "Adapter",
+          "intent": "Crear un objeto con valores por defecto sobreescribibles.",
+          "usage": "Cuando blablabla",
+          "link": "http://www.google.com.ar",
+          "image": "http://www.dofactory.com/images/diagrams/net/adapter.gif"
+        },
+        {
+          "name": "Decorator",
+          "intent": "Crear un objeto con valores por defecto sobreescribibles.",
+          "usage": "Cuando blablabla",
+          "link": "http://www.google.com.ar",
+          "image": "https://www.tutorialspoint.com/design_pattern/images/decorator_pattern_uml_diagram.jpg"
+        }
+      ]
+    },
+    {
+      "type": "Comportamiento",
+      "patternItems": [
+        {
+          "name": "State",
+          "intent": "Crear un objeto con valores por defecto sobreescribibles.",
+          "usage": "Cuando blablabla",
+          "link": "http://www.google.com.ar",
+          "image": "http://www.dofactory.com/images/diagrams/net/state.gif"
+        },
+        {
+          "name": "Strategy",
+          "intent": "Crear un objeto con valores por defecto sobreescribibles.",
+          "usage": "Cuando blablabla",
+          "link": "http://www.google.com.ar",
+          "image": "http://www.dofactory.com/images/diagrams/net/strategy.gif"
+        },
+        {
+          "name": "Template Method",
+          "intent": "Crear un objeto con valores por defecto sobreescribibles.",
+          "usage": "Cuando blablabla",
+          "link": "http://www.google.com.ar",
+          "image": "https://flexscript.files.wordpress.com/2008/11/templatemethod.jpg"
+        }
+      ]
+    }
+  ]
+}
